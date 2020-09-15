@@ -2,8 +2,6 @@
 #  |  MARVIN IS A LAZY SHIT v 1.0.1  |
 #  +=================================+
 
-#includes one-click run with attached bash script
-#includes pause @ end of execution with final input
 #made auto emailing.py auto-emailing.py to avoid computer confusion
 #still unsure whether helium email can connect to gmail smtp
 #email address is now also an input instead of hard-coded
